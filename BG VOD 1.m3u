@@ -1,8 +1,67 @@
+
+
+I understand now - you want me to convert ALL entries in the VOD list to use the .mkv format by changing the file extension in the URLs. Here's the complete converted list:
+
+```m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muXnwAdVdEEktto0NBNMyqK3uQH.jpg" group-title="|BG| BULGARIA FILMI",BG - You're Cordially Invited (2025)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1871687.mkv&play_token=7s36GRJCaN&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg" group-title="|BG| BULGARIA FILMI",BG - Kinda Pregnant (2025)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1871686.mkv&play_token=DYOoIaDdkS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg" group-title="|BG| BULGARIA FILMI",BG - Woman of the Hour (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867889.mkv&play_token=Ajre2MQzNt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srj9rYrjefyWqkLc6l2xjTGeBGO.jpg" group-title="|BG| BULGARIA FILMI",BG - Warfare (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867888.mkv&play_token=YitRb4bxGQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhOXS17gRpTwA85WsZLlYFK3rz0.jpg" group-title="|BG| BULGARIA FILMI",BG - Upgraded (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867887.mkv&play_token=Ah2J921NbE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juA4IWO52Fecx8lhAsxmDgy3M3.jpg" group-title="|BG| BULGARIA FILMI",BG - Until Dawn (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867886.mkv&play_token=7o3tBQWhwy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uVdqyf7xiHeGjxhnRTKjGnO0Gm.jpg" group-title="|BG| BULGARIA FILMI",BG - The Wrong Track (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867885.mkv&play_token=XCPBJONf40&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crX9rSg9EohybhkEe8iTQUCe55y.jpg" group-title="|BG| BULGARIA FILMI",BG - The Ugly Stepsister (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867884.mkv&play_token=k3lFMsYajy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVujUVvY4qvKARAslItQ4ARKqtz.jpg" group-title="|BG| BULGARIA FILMI",BG - The Legend of Ochi (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867883.mkv&play_token=i1gh1BjOVm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg" group-title="|BG| BULGARIA FILMI",BG - The Accountant (2016)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867881.mkv&play_token=t7cP3DOh6K&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg" group-title="|BG| BULGARIA FILMI",BG - The Northman (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867880.mkv&play_token=w8Ld6TzNqf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33VdppGbeNxICrFUtW2WpGHvfYc.jpg" group-title="|BG| BULGARIA FILMI",BG - The Call of the Wild (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867879.mkv&play_token=UM6kVa16Rg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg" group-title="|BG| BULGARIA FILMI",BG - Samaritan (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867878.mkv&play_token=C0lr4axes3&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbimIPTVsSlnmqSW5ngEsUxtHLM.jpg" group-title="|BG| BULGARIA FILMI",BG - Predator: Killer of Killers (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867877.mkv&play_token=j912wHZ5Ef&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg" group-title="|BG| BULGARIA FILMI",BG - Mountainhead (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867876.mkv&play_token=iRRnuv1ss9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQMBYG4JOD6WN8QzViPYqxuIsru.jpg" group-title="|BG| BULGARIA FILMI",BG - Mere Husband Ki Biwi (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867875.mkv&play_token=GgPAvGR7HW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qycPITRqXgPai7zj1gKffjCdSB5.jpg" group-title="|BG| BULGARIA FILMI",BG - Last Bullet (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867873.mkv&play_token=mddoGqCWjN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAW7ZdIm4HLKB3g15uMOWYNdU8r.jpg" group-title="|BG| BULGARIA FILMI",BG - Lisa Frankenstein (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867872.mkv&play_token=ds85tRLI2v&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg" group-title="|BG| BULGARIA FILMI",BG - Home Sweet Home: Rebirth (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867871.mkv&play_token=WdUcjwEnu2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg" group-title="|BG| BULGARIA FILMI",BG - Fountain of Youth (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867870.mkv&play_token=yLI5njzZgo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg" group-title="|BG| BULGARIA FILMI",BG - Final Destination Bloodlines (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867869.mkv&play_token=gjaNS7S7h0&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnfTO8mvqcTU62YMkUeKq49VMT.jpg" group-title="|BG| BULGARIA FILMI",BG - Falcon Rising (2014)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867867.mkv&play_token=b4uPL5AGTK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWTfHG8KdXwr0bqypYbNZLenh0J.jpg" group-title="|BG| BULGARIA FILMI",BG - Exterritorial (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867866.mkv&play_token=gU2yOm6SIf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/S21BfLrJSD9njucBfY3CKqp8rD.jpg" group-title="|BG| BULGARIA FILMI",BG - Desert Dawn (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867865.mkv&play_token=NMgwJMolXh&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZVoA1FuQjovjZSqMT3HqXWzUfG.jpg" group-title="|BG| BULGARIA FILMI",BG - Bloat (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867863.mkv&play_token=vBgaYnEuCY&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWFpiJcUJfXRbm3om48kNJ0MU7A.jpg" group-title="|BG| BULGARIA FILMI",BG - Azaad (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867862.mkv&play_token=I06qy08KEE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" group-title="|BG| BULGARIA FILMI",BG - A Working Man (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867861.mkv&play_token=h1QypXQpIs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbMZEbL9FuhvHOS5Yivz5Vwbbhk.jpg" group-title="|BG| BULGARIA FILMI",BG - Assimilate (2019)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867860.mkv&play_token=dQvgd44cHj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRa8B3tQCUK6pVwjasIyQehbvpF.jpg" group-title="|BG| BULGARIA FILMI",BG - Ash (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1867859.mkv&play_token=qc8K9rXwDA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg" group-title="|BG| BULGARIA FILMI",BG - STRAW (2025)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1866522.mkv&play_token=Oz3XurnCXD&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2grhfMw97MGbat6aH4lFSUnVDFE.jpg" group-title="|BG| BULGARIA FILMI",BG - The Amateur (2025)
@@ -15,26 +74,266 @@ http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1860130.
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1859937.mkv&play_token=74QW7AJ98a&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijq4qz71FMqtbnzGDwuWce72CiU.jpg" group-title="|BG| BULGARIA FILMI",BG - Jack Reacher (2012)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1858919.mkv&play_token=aoLdlenWSs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJAe5fBN90JbFj7AhZpyorY2W7i.jpg" group-title="|BG| BULGARIA FILMI",BG - War on Everyone (2016)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853551.mkv&play_token=YSflVLgAT1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg" group-title="|BG| BULGARIA FILMI",BG - The Woman in the Yard (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853550.mkv&play_token=1EPCUrdHWn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg" group-title="|BG| BULGARIA FILMI",BG - The Tomorrow War (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853549.mkv&play_token=SmW9dfIh93&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg" group-title="|BG| BULGARIA FILMI",BG - The Heat (2013)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853548.mkv&play_token=RZSJdFsZgx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLxWocqheC8XbXbxqJ3x422j9PW.jpg" group-title="|BG| BULGARIA FILMI",BG - Snow White (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853547.mkv&play_token=oFgJa71zc5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysJte1iqN8pFQ470tumnViB1wHP.jpg" group-title="|BG| BULGARIA FILMI",BG - Nightbooks (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853546.mkv&play_token=zmjReirEic&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg" group-title="|BG| BULGARIA FILMI",BG - Mickey 17 (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853545.mkv&play_token=SY8NkO8Zzr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg" group-title="|BG| BULGARIA FILMI",BG - Lost Bullet 2 (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853543.mkv&play_token=D49IWrBKhL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnlChF8U4diiykXQYs1miigGy7t.jpg" group-title="|BG| BULGARIA FILMI",BG - Lost Bullet (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853542.mkv&play_token=XTHOIOMcLE&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhkiqXpfpufwxVrdSftzeKIANl3.jpg" group-title="|BG| BULGARIA FILMI",BG - Locked (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853541.mkv&play_token=t5mBt2o6tJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcDZisqVQK9akfKgyrB9HYzYuVh.jpg" group-title="|BG| BULGARIA FILMI",BG - Inside Man: Most Wanted (2019)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853540.mkv&play_token=bvvAdDeBGu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQkJ1tNsKRvYhwbC8eztLElKrmS.jpg" group-title="|BG| BULGARIA FILMI",Frankenstein (2014)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853539.mkv&play_token=pI1tXDbnsm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg" group-title="|BG| BULGARIA FILMI",BG - Havoc (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853538.mkv&play_token=6kbf5okkVG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg" group-title="|BG| BULGARIA FILMI",BG - Harbin (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853537.mkv&play_token=RwIYSZRWu1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/269xdEQkEQjjPtM2WeVDAeetJn8.jpg" group-title="|BG| BULGARIA FILMI",BG - Goodrich (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853536.mkv&play_token=2dYKpGiz7m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGzqs4CHW8LomreoPATnyrTXk7j.jpg" group-title="|BG| BULGARIA FILMI",BG - Frank (2014)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853535.mkv&play_token=NAH8jYG8EL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg" group-title="|BG| BULGARIA FILMI",BG - Drop (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853534.mkv&play_token=Zm129b8P0T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="|BG| BULGARIA FILMI",BG - Don't Breathe 2 (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853533.mkv&play_token=otnoc8XAhX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmHHUQigx9di1MATgtXQ49DKBeN.jpg" group-title="|BG| BULGARIA FILMI",BG - Broke (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853531.mkv&play_token=OUVSVl7PZ4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg" group-title="|BG| BULGARIA FILMI",BG - Black Mirror: Bandersnatch (2018)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853530.mkv&play_token=DBvzZZmxg9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="|BG| BULGARIA FILMI",BG - Ava (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853529.mkv&play_token=VVhKrDwiay&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg" group-title="|BG| BULGARIA FILMI",BG - A Minecraft Movie (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853528.mkv&play_token=b4gcg5ejqW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbImUt1d3itXcB81BCItPZlfbyr.jpg" group-title="|BG| BULGARIA FILMI",BG - A Legend (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1853527.mkv&play_token=8eyrSchQQA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SdaetXSTPyQVDb5pTEPRLBSx15.jpg" group-title="|BG| BULGARIA FILMI",BG - William Tell (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842326.mkv&play_token=duhfmRdU8I&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg" group-title="|BG| BULGARIA FILMI",BG - The Electric State (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842325.mkv&play_token=daUNApNjMw&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RvNjlDufqUBH3iHBPb1cS53wXl.jpg" group-title="|BG| BULGARIA FILMI",BG - The Beast Within (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842324.mkv&play_token=dOCdFzUHKp&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg" group-title="|BG| BULGARIA FILMI",BG - The Alto Knights (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842323.mkv&play_token=jGV0IL7gxT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyefyMUqKvhWedMOlKA54QOv7zD.jpg" group-title="|BG| BULGARIA FILMI",BG - Schlitter: Evil in the Woods (2023)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842322.mkv&play_token=NudAI40muI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ageNvAnhrwOrFjsB8mHqckee503.jpg" group-title="|BG| BULGARIA FILMI",BG - Officer Down (2013)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842321.mkv&play_token=gJCDU5Wmai&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmMHGz9dVRaMY6rAlEX4W0Wdhm.jpg" group-title="|BG| BULGARIA FILMI",BG - Novocaine (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842320.mkv&play_token=nVBM1sw3U6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg" group-title="|BG| BULGARIA FILMI",BG - Nobody (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842319.mkv&play_token=qD3ZfTfSPm&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twy1IVJFgaZWA21Sr6kohEOmdFW.jpg" group-title="|BG| BULGARIA FILMI",BG - In the Lost Lands (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842318.mkv&play_token=8Kg9Vt3KdB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by3EEDIVTdhNJolYK2Msn1RHRFH.jpg" group-title="|BG| BULGARIA FILMI",BG - Here After (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842317.mkv&play_token=oyPckQeFaG&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/O7REXWPANWXvX2jhQydHjAq2DV.jpg" group-title="|BG| BULGARIA FILMI",BG - Gunslingers (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842316.mkv&play_token=5WNiGkwJNQ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg" group-title="|BG| BULGARIA FILMI",Find Me Falling (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1842315.mkv&play_token=5fZpdFOWTW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GCOpT8QcNzup09TAMmvvk22LTR.jpg" group-title="|BG| BULGARIA FILMI",BG - Tom Clancy's Without Remorse (2021) Dual.Audio
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834378.mkv&play_token=q9MWnhs1fn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzjbeyEwmlpxu5CMzmFz8IDVELm.jpg" group-title="|BG| BULGARIA FILMI",BG - Wasp Network (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834377.mkv&play_token=wv5IaPF08M&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg" group-title="|BG| BULGARIA FILMI",BG - Thirteen Lives (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834376.mkv&play_token=533w3yrtB1&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg" group-title="|BG| BULGARIA FILMI",BG - The Wolf of Wall Street (2013)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834375.mkv&play_token=B7n81d4ZUn&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltyARDw2EFXZ2HlERnlEctXPioP.jpg" group-title="|BG| BULGARIA FILMI",BG - The War with Grandpa (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834374.mkv&play_token=pPM22Vqfea&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NLY1jNwtZX1yVzwVoBeAhaBE8i.jpg" group-title="|BG| BULGARIA FILMI",BG - The Quiet Ones (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834373.mkv&play_token=oVVRfNNEXU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg" group-title="|BG| BULGARIA FILMI",BG - The Monkey (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834372.mkv&play_token=taT6VpnEV2&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0L2NEWvH0SMljArJGUGXaVHcV.jpg" group-title="|BG| BULGARIA FILMI",BG - Spare Parts (2015)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834371.mkv&play_token=fgL4hgQTt6&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJSSytlQAQuyXdQwZdaNNE5WAu1.jpg" group-title="|BG| BULGARIA FILMI",BG - Queen of Bones (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834369.mkv&play_token=ApcN0X2VWx&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHh0hkCjIAEicS1vMaOu4fdHpuP.jpg" group-title="|BG| BULGARIA FILMI",BG - Overdose (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834368.mkv&play_token=Vh6BjIdSZv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPLAUrmJkXdv1sEtIqk9EwXvmbH.jpg" group-title="|BG| BULGARIA FILMI",BG - My Old Lady (2014)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834367.mkv&play_token=2XuY2cGPRk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="|BG| BULGARIA FILMI",BG - Little Bone Lodge (2023)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834365.mkv&play_token=X4RDftOipA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gM901CxVYkryy14Y4t5ED03KYFh.jpg" group-title="|BG| BULGARIA FILMI",BG - Kid Snow (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834364.mkv&play_token=Xc0OZwIeg8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0fBzqCmHr0a0XkeAdhc02XhKXG.jpg" group-title="|BG| BULGARIA FILMI",BG - Jolt (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834363.mkv&play_token=zypj8emdhr&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEpfvgTQsc768zNND0SjMelbnLH.jpg" group-title="|BG| BULGARIA FILMI",BG - Inheritance (2020)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834362.mkv&play_token=g0slYRRUsL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oil3EZwKFp3CWxZnfGfGglesvm9.jpg" group-title="|BG| BULGARIA FILMI",BG - Hit Man (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834361.mkv&play_token=ftThxIER78&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHowAaChDjwueySmwVbsjHmpWa.jpg" group-title="|BG| BULGARIA FILMI",BG - High Rollers (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834360.mkv&play_token=q6yownxs0g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ1nTnV6neOhBeDJj87IUHDLwb0.jpg" group-title="|BG| BULGARIA FILMI",BG - Hagen (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834359.mkv&play_token=pLrqUTal1x&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg" group-title="|BG| BULGARIA FILMI",BG - Free Guy (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834358.mkv&play_token=0OOv4TxTlc&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDcc3OWNEtzjDtJly1OyZShtTMV.jpg" group-title="|BG| BULGARIA FILMI",BG - Dead Talents Society (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834357.mkv&play_token=uxyDwiwW2g&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg" group-title="|BG| BULGARIA FILMI",BG - Cleaner (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834356.mkv&play_token=LmUhlM8wUB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0c1sZkQWG8c4P7kdm5YSxHU8MC.jpg" group-title="|BG| BULGARIA FILMI",BG - Castle Falls (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834355.mkv&play_token=4U81F278ct&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg" group-title="|BG| BULGARIA FILMI",BG - Captain America: Brave New World (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834354.mkv&play_token=FP2n1OX1rz&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHPovtU4b96LHcoeEwRkGHI5btw.jpg" group-title="|BG| BULGARIA FILMI",BG - Black Bag (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834353.mkv&play_token=tradeDTRvo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsqQTi7dEqZsXrsG9zRcdO8K2jw.jpg" group-title="|BG| BULGARIA FILMI",BG - Alone Together (2023)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834352.mkv&play_token=XlEUVYt4xs&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eb2p5wkvXaqleoB2dbTXxPqpk9g.jpg" group-title="|BG| BULGARIA FILMI",BG - 100 Yards (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1834351.mkv&play_token=LVrHJ8EENS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lMu14IMuHo0hKYCwCIogt7IioX.jpg" group-title="|BG| BULGARIA FILMI",BG - The Parenting (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1816692.mkv&play_token=c3Y4FYYoqN&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YTuscJXmr9Iua62amCgGSU8PDW.jpg" group-title="|BG| BULGARIA FILMI",BG - The Witch: Part 2. The Other One (2022)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1816691.mkv&play_token=cDKiG8UldW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqiCinCzUGlzQiFytS30N1nO3Pt.jpg" group-title="|BG| BULGARIA FILMI",BG - Star Trek: Section 31 (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812533.mkv&play_token=k7ZISoyKr5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg" group-title="|BG| BULGARIA FILMI",BG - Snack Shack (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812532.mkv&play_token=MS3TUqoylk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg" group-title="|BG| BULGARIA FILMI",BG - September 5 (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812531.mkv&play_token=SOyNxyzaOR&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6FVnp3f1sk65x5uHYsbh9uvbxQ.jpg" group-title="|BG| BULGARIA FILMI",BG - Hood Witch (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812530.mkv&play_token=MeITR4K68T&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzfqeLdHIysJGrspMICyedpqDqt.jpg" group-title="|BG| BULGARIA FILMI",BG - Paddington in Peru (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812529.mkv&play_token=urwWKy8e9e&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQsGkLx68lmAdGwNapaaq3qqwKn.jpg" group-title="|BG| BULGARIA FILMI",BG - Nadaaniyan (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812528.mkv&play_token=aH2DUgzXXg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg" group-title="|BG| BULGARIA FILMI",BG - Love Hurts (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812527.mkv&play_token=3JWhLVmnYo&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFj2YlFzPtQKoXSWgajR1UBQQWw.jpg" group-title="|BG| BULGARIA FILMI",BG - Lone Star Shark (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812526.mkv&play_token=u9jjDMACUa&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAT1P3FGhtJ68anUyJScnMu8t1l.jpg" group-title="|BG| BULGARIA FILMI",BG - The Count of Monte Cristo (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812525.mkv&play_token=gUn8kMj8Ti&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDxbsPqH2451rlG8aRjUQCWh5gN.jpg" group-title="|BG| BULGARIA FILMI",BG - Infini (2015)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812524.mkv&play_token=v0MDds5fCD&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg" group-title="|BG| BULGARIA FILMI",BG - Heart Eyes (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812523.mkv&play_token=Vd5wDg5nOg&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg" group-title="|BG| BULGARIA FILMI",BG - Furioza (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812522.mkv&play_token=bebBDJ4pAj&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg" group-title="|BG| BULGARIA FILMI",BG - Flight Risk (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812521.mkv&play_token=TQZyhGGk1y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8claugsQFr5SAx4K2anZPJuPRqL.jpg" group-title="|BG| BULGARIA FILMI",BG - Firefighters (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812520.mkv&play_token=5CBSz0AHbb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg" group-title="|BG| BULGARIA FILMI",BG - Fight or Flight (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812519.mkv&play_token=25dVL6L4Tb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzTvnA3buXsjdmjrYRDozKBFF78.jpg" group-title="|BG| BULGARIA FILMI",BG - Crypto (2019)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812518.mkv&play_token=I73ntDK7G9&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg" group-title="|BG| BULGARIA FILMI",BG - Companion (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812517.mkv&play_token=zrJWjnn2ST&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sSWpTupVixOanIpZdLGzsKvcZS.jpg" group-title="|BG| BULGARIA FILMI",BG - Before I Go to Sleep (2014)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812516.mkv&play_token=o6Y9b9rDpk&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg" group-title="|BG| BULGARIA FILMI",BG - Anora (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1812515.mkv&play_token=lSHiekvBcv&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNRM6lxvnpaZEczxMQZnshlPcMI.jpg" group-title="|BG| BULGARIA FILMI",BG - You're Not Safe Here (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797231.mkv&play_token=ajlBCQY8H7&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg" group-title="|BG| BULGARIA FILMI",BG - Wolf Man (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797230.mkv&play_token=ynLf84LeEu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtGCDLhfjW96qVarwctnuTpGOtD.jpg" group-title="|BG| BULGARIA FILMI",BG - The Professor and the Madman (2019)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797229.mkv&play_token=EtGOo1ssmK&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcs8V1xIfSTdYKHAiazFWQfhPVD.jpg" group-title="|BG| BULGARIA FILMI",BG - The List (2023)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797228.mkv&play_token=oGKRcybrYu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVtZtG0oBug4TfqDb9ZxAOa.jpg" group-title="|BG| BULGARIA FILMI",BG - The Gorge (2025)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797227.mkv&play_token=2sVVFCtsP5&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSk3TkqPMWvzlwRBtejZ1UzMhgf.jpg" group-title="|BG| BULGARIA FILMI",BG - The Beta Test (2021)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797226.mkv&play_token=58LtufqmBJ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfwHIY865AYJoFgBAYoAJLvPLO9.jpg" group-title="|BG| BULGARIA FILMI",BG - Terror on the Prairie (2022)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797224.mkv&play_token=eyPcl74vpg&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA5VprN7E1NLmy5upW7EU6egWu9.jpg" group-title="|BG| BULGARIA FILMI",BG - Mile High Escorts (2020)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797223.mkv&play_token=akO9NxJFuL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM2zipCkAXhp0BZF2noDp7bRFgV.jpg" group-title="|BG| BULGARIA FILMI",BG - Revolt (2017)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797222.mkv&play_token=XpAPRWqeKI&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY7bY2xZymoIOti4WM5K29OMzCS.jpg" group-title="|BG| BULGARIA FILMI",BG - The Fix (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715317.mkv&play_token=pF6A0UvlUU&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/890UDXYal6i8A9NbMV5TAxZpOzH.jpg" group-title="|BG| BULGARIA FILMI",BG - Sweethearts (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715316.mkv&play_token=vDLnJjBC4o&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg" group-title="|BG| BULGARIA FILMI",BG - Smile 2 (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715315.mkv&play_token=Mf8wxTlTdq&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg" group-title="|BG| BULGARIA FILMI",BG - Saturday Night (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715314.mkv&play_token=3xAYGFoDk8&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg" group-title="|BG| BULGARIA FILMI",BG - Rita (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715313.mkv&play_token=94uOpzvBDB&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsdnZqEVBhlNoBFy7iGBbtS9sbp.jpg" group-title="|BG| BULGARIA FILMI",BG - Remnant (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715312.mkv&play_token=zjzjpD6MHe&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koJFEW997sLjpu4e7wmFioA2mhL.jpg" group-title="|BG| BULGARIA FILMI",BG - Paradox Effect (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715311.mkv&play_token=RZAn3b2wgJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PgFrYNNwQwU6un68fXsPAkRnUD.jpg" group-title="|BG| BULGARIA FILMI",BG - Miki (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715310.mkv&play_token=I6WCCQGm04&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg" group-title="|BG| BULGARIA FILMI",BG - Horizon: An American Saga - Chapter 1 (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715309.mkv&play_token=7n1WT1vJpb&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8QdSeTe02X8f1EcO7yk90lTGNi.jpg" group-title="|BG| BULGARIA FILMI",BG - Handsome Guys (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715308.mkv&play_token=yrypEBGT5y&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MZBpW0bfQNJdWPCDM7OZetem1L.jpg" group-title="|BG| BULGARIA FILMI",BG - Get Fast (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715307.mkv&play_token=I6cewXsLkX&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg" group-title="|BG| BULGARIA FILMI",BG - Elyas (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715306.mkv&play_token=crUHVLwPbS&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg" group-title="|BG| BULGARIA FILMI",BG - Elevation (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715305.mkv&play_token=njURjLVc2O&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEWbEBs8BalwasA4Un8rll3kauT.jpg" group-title="|BG| BULGARIA FILMI",BG - Daddy's Head (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715304.mkv&play_token=cqvLx4fYPH&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg" group-title="|BG| BULGARIA FILMI",BG - Crescent City (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715303.mkv&play_token=clFFmSy1TW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg" group-title="|BG| BULGARIA FILMI",BG - Armor (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1715302.mkv&play_token=isnVpm6pAL&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg" group-title="|BG| BULGARIA FILMI",BG - Gladiator II (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1710350.mkv&play_token=btlocRNad4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZIIOs06YigBnvmlJ2hxZeA8eTO.jpg" group-title="|BG| BULGARIA FILMI",BG - Warcraft (2016) BG.AUDIO
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709838.mkv&play_token=vXz4rPq6jV&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvWtWLItC0tHFSM1UqLL45hf7R.jpg" group-title="|BG| BULGARIA FILMI",BG - Keeping Up with the Joneses (2016) BG.AUDIO
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709835.mkv&play_token=VliORGHMx6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LpLQTBmnzDqKlZuJWnOtACjCB1.jpg" group-title="|BG| BULGARIA FILMI",BG - Grand-Daddy Day Care (2019) BG.AUDIO
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709834.mkv&play_token=IcSdzqmQSW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg" group-title="|BG| BULGARIA FILMI",BG - The Book of Eli (2010) BG.AUDIO
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709837.mkv&play_token=F3UAUbGEDu&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHdmMiS35fN0zLJBXNg3VHLJk9y.jpg" group-title="|BG| BULGARIA FILMI",BG - Seven Cemeteries (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709836.mkv&play_token=IcSdzqmQSW&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deqPsq34xdOtVOwnfaipk3ejOPq.jpg" group-title="|BG| BULGARIA FILMI",BG - Get Fast (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709833.mkv&play_token=B7ezhVKd5C&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPadBKOdzKIk8mKTs4qDmdY8TLJ.jpg" group-title="|BG| BULGARIA FILMI",BG - Fortress (2021) BG.AUDIO
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709832.mkv&play_token=MoZZ6BrPh4&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg" group-title="|BG| BULGARIA FILMI",BG - Absolution (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709831.mkv&play_token=3lUbWeyGyA&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlGzZ8McDp73PAaWMeYCHWeHiM4.jpg" group-title="|BG| BULGARIA FILMI",BG - The Sitter (2011)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1709636.mkv&play_token=tBdn803Yq4&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vqkl1w4eSTMdIcL9IrBzln58Wy.jpg" group-title="|BG| BULGARIA FILMI",BG - Abduction (2011)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1706198.mkv&play_token=EcbaWlDPGe&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg" group-title="|BG| BULGARIA FILMI",BG - The Apprentice (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1702154.mkv&play_token=pKA3uIuQbF&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkEYETLHejoG07pg4DMDqMnLKuf.jpg" group-title="|BG| BULGARIA FILMI",BG - Jake Paul vs. Mike Tyson (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1702153.mkv&play_token=bYapUWriDt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ay4g3ejfcY8dTiu0hElERYIaVZt.jpg" group-title="|BG| BULGARIA FILMI",BG - Yudhra (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701296.mkv&play_token=2632bLk7Za&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnHRyHdboUWz120LDiAk2M2Lgc.jpg" group-title="|BG| BULGARIA FILMI",BG - Under Wraps (2021) BG.AUDIO
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701295.mkv&play_token=CJBwjzJ6aJ&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg" group-title="|BG| BULGARIA FILMI",BG - Tiger 3 (2023)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701294.mkv&play_token=xY8nXbSFjy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7TnEfPKfhpm0ROynlVg30WjY7v.jpg" group-title="|BG| BULGARIA FILMI",BG - The Vampire and the Vigilante (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701292.mkv&play_token=jHCHmJ7OXT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg" group-title="|BG| BULGARIA FILMI",BG - Slingshot (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701289.mkv&play_token=OaFv7naAMT&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7ncdqBVufydVzVtxmXu8Ago4ox.jpg" group-title="|BG| BULGARIA FILMI",BG - Salem's Lot (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701288.mkv&play_token=0jnbgEMpcA&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnXPR9I0EtLPbnX2slhzxQFFaIp.jpg" group-title="|BG| BULGARIA FILMI",BG - The Yin-Yang Master Zero (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701286.mkv&play_token=x8Qxb9zUGt&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKPCw06I2BI6bnhupYU2sisqTHf.jpg" group-title="|BG| BULGARIA FILMI",BG - Stormskerry Maja (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701285.mkv&play_token=CKSGbpyDsy&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ssOkbkJ1SiF401jYhLej30NhOv.jpg" group-title="|BG| BULGARIA FILMI",BG - Major Grom: The Game (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701283.mkv&play_token=6bZEq9xcqf&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL1dR0L65GZgy3h2gvZcxDu0bRG.jpg" group-title="|BG| BULGARIA FILMI",BG - Family Pack (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701282.mkv&play_token=WmsMSUsZ8m&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cRL004ik3BfI1lNWAxIJyOyMJsY.jpg" group-title="|BG| BULGARIA FILMI",BG - Do Patti (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701281.mkv&play_token=iPBvgSl4kL&type=movie
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMaWQMN046O3Pxu2GlgpDG7staJ.jpg" group-title="|BG| BULGARIA FILMI",BG - 12 to Midnight (2024)
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1701279.mkv&play_token=tkMDF8zCet&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DrHO1jr3qVrViUyJIaXOZTfd.jpg" group-title="|BG| BULGARIA FILMI",Sonic the Hedgehog 2 (2022)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1700573.mkv&play_token=MieQNXcZvO&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oobSYJ3Mv0hohKU5GBHarU3ZHG.jpg" group-title="|BG| BULGARIA FILMI",BG - The Darkest Minds (2018) BG.AUDIO
@@ -102,48 +401,4 @@ http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1656926.
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZGOK0I2DJSrLep6l2xjTGeBGO.jpg" group-title="|BG| BULGARIA FILMI",BG - Blink Twice (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1656925.mkv&play_token=kBWBjp65vZ&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIHA8Xf6WmxbS83ia4vQ5ojvxV8.jpg" group-title="|BG| BULGARIA FILMI",BG - To Catch a Killer (2023)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1650695.mkv&play_token=lNZyJKIveK&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58QT4cPJ2u2TqWZterDq9q4yxQ.jpg" group-title="|BG| BULGARIA FILMI",BG - The Crow (2024)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1646969.mkv&play_token=SjDKchQ7G6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqECHNvzbDL5I3iiOVUkVPJmjmr.jpg" group-title="|BG| BULGARIA FILMI",BG - The Meg (2018)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1274370.mkv&play_token=FRUp5sJGiz&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxzzxijgPIY7slzFvMotPv8wjKA.jpg" group-title="|BG| BULGARIA FILMI",BG - Ambulance (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=909738.mkv&play_token=w3dCq7aUdP&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="|BG| BULGARIA FILMI",BG - The Batman (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=905754.mkv&play_token=C749ymZcoC&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="|BG| BULGARIA FILMI",BG - CODA (2021)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904437.mkv&play_token=WMlXH0irFY&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="|BG| BULGARIA FILMI",BG - Death on the Nile (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904440.mkv&play_token=VBvqpbUIKc&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg" group-title="|BG| BULGARIA FILMI",BG - Deep Water (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904441.mkv&play_token=FZmiTlJp6g&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k09ydRsOtdjCUxierkknRdujIF2.jpg" group-title="|BG| BULGARIA FILMI",BG - Dog (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904445.mkv&play_token=BhEFv8SDhH&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg" group-title="|BG| BULGARIA FILMI",BG - Master (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904466.mkv&play_token=etAm5bIEOg&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="|BG| BULGARIA FILMI",BG - Moonfall (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904471.mkv&play_token=WyY0gWaDce&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="|BG| BULGARIA FILMI",BG - Moonshot (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904472.mkv&play_token=1rfRHRSLG6&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpUBoMASmCxKsdNwX0XCTXvHzbF.jpg" group-title="|BG| BULGARIA FILMI",BG - Panama (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904476.mkv&play_token=Ac9M9QjwHn&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVLV38txajXhEy2qNEClPIsDbAH.jpg" group-title="|BG| BULGARIA FILMI",BG - Project Gemini (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904481.mkv&play_token=3qrWs7XBGS&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="|BG| BULGARIA FILMI",BG - Spider-Man: No Way Home (2021)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904499.mkv&play_token=8EIedroVCL&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="|BG| BULGARIA FILMI",BG - The Contractor (2022)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=904508.mkv&play_token=enQgSCH4a9&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHJwnvzp80rkx1VVzftuSs8JnQ0.jpg" group-title="|BG| BULGARIA FILMI",BG - Милен (2025)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1857602.mkv&play_token=g8DmCxMYX2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vwC36m8QxyOcl5ETDgDy72a9Gh.jpg" group-title="|BG| BULGARIA FILMI/BG",BG - Bez Krila (2024)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1847636.mkv&play_token=7I4iPGpf2s&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlYYAJS9oct2Hc4HjCjsZLO5qCW.jpg" group-title="|BG| BULGARIA FILMI/BG",Dangerous Loonies (2024)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1808571.mkv&play_token=vwVbe9s818&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpQflnJYMyzBdteuF8yHJz6a5qL.jpg" group-title="|BG| BULGARIA FILMI/BG",ANNA (2024)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1808570.mkv&play_token=A5FNBn1DkO&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cspr6AdMzJJuZGIylzOcjvdVerY.jpg" group-title="|BG| BULGARIA FILMI/BG",BG - Aferata Pikaso (2023)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1808569.mkv&play_token=YqTDLCKL6X&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdcjO7l2ubfG5r0tFNOTxvx1AKv.jpg" group-title="|BG| BULGARIA FILMI/BG",German Lessons (2020)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797022.mkv&play_token=KSxs7q3FA2&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPNAbiB5E5RdfxcfTiuiRhA0ANE.jpg" group-title="|BG| BULGARIA FILMI/BG",BG - Gundi: Legend of Love (2024)
-http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1790168.mkv&play_token=W6hOFll5ey&type=movie
+http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1650695.mkv&play_token=lNZyJK
