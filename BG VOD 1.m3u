@@ -73,7 +73,7 @@ http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1689229.
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1689228.mkv&play_token=PnyvJZ2CIu&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg" group-title="|BG| BULGARIA FILMI",BG - Joker: Folie à Deux (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1689227.mkv&play_token=CWojlwEgsN&type=movie
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg" group-title="|BG| BULGARIA FILMI",BG - Maze Runner: The Death Cure (2018) BG.AUDiO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg" group-title="|BG| BULGARIA FILMI",BG - Maze Runner: The Death Cure (2018) BG.AUDIO
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1682781.mkv&play_token=U5A6Zz0lL5&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg" group-title="|BG| BULGARIA FILMI",BG - Wolfs (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1672728.mkv&play_token=lpGXM08aZj&type=movie
@@ -147,5 +147,3 @@ http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1808569.
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1797022.mkv&play_token=KSxs7q3FA2&type=movie
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPNAbiB5E5RdfxcfTiuiRhA0ANE.jpg" group-title="|BG| BULGARIA FILMI/BG",BG - Gundi: Legend of Love (2024)
 http://tv.premiumplus.tv:80/play/movie.php?mac=00:1A:79:77:85:77&stream=1790168.mkv&play_token=W6hOFll5ey&type=movie
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqOjBAllb6GQrvtxS-4obD9H3K6kFKCVFwA&s" group-title="|BG|
-
